@@ -21,8 +21,8 @@
 </p>
 
 ## Features
-- Customizable
-- Responsiveness
-- i18n support
-- Theme support
-- Font Awesome icons
+- :zap: Customizable
+- :sparkles: Responsiveness
+- :globe_with_meridians: i18n support
+- :nail_care: Theme support
+- :cat: Font Awesome icons
