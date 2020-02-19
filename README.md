@@ -1,7 +1,7 @@
 <h1 align="center">Slimp</h1>
 
 <p align="center">
-  A dead simple way to get your first and an elegant personal website
+  A dead simple way to get your first and elegant personal website
   <br><br>
   <a href="https://www.patreon.com/daltonmenezes">
     <img src="https://img.shields.io/badge/support%20on-patreon-informational?style=flat-square" alt="support me on patreon" />
