@@ -1,4 +1,4 @@
-<h1 align="center">slimp</h1>
+<h1 align="center">Slimp</h1>
 
 <p align="center">
   A dead simple way to get your first and an elegant personal website
