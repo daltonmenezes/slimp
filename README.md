@@ -1,5 +1,6 @@
 <h1 align="center">Slimp [WIP]</h1> 
 <p align="center">
+  <img src="https://i.imgur.com/5CC6ETC.png" alt="project banner"/>
   A dead simple way to get your first and elegant personal website
   <br><br>
   <a href="https://www.patreon.com/daltonmenezes">
