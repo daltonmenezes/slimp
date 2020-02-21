@@ -23,5 +23,7 @@
 - :zap: Customizable
 - :sparkles: Responsiveness
 - :globe_with_meridians: i18n support
+- :electric_plug: Widgets support
+- :memo: Social meta tags
 - :nail_care: Theme support
 - :cat: Font Awesome icons
